@@ -33,3 +33,10 @@ img {
 h1 {
     margin-bottom: 2vh;
 }
+
+.preparation-time {
+    width: auto;
+    height: auto;
+    margin: 5vh;
+    background-color: #F3E5F5;
+}
