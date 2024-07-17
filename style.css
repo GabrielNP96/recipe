@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background: rgb(114,133,242);
+    background: linear-gradient(150deg, rgba(114,133,242,1) 10%, rgba(82,124,242,1) 50%, rgba(61,124,242,1) 100%); 
+}
+
+main {
+    width: 35%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+img {
+    width: auto;
+    height: 30vh;
+    margin: 1vh;
+
+}
