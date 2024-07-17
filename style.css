@@ -53,3 +53,8 @@ li {
     margin: 4%
 }
 
+.info {
+    display: flex;
+    justify-content: space-between;
+}
+
